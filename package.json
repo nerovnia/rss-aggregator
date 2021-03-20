@@ -1,0 +1,37 @@
+{
+  "name": "rss-aggregator",
+  "version": "0.0.1",
+  "description": "RSS Aggregator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerovnia/rss-aggregator.git"
+  },
+  "keywords": [
+    "\"RSS\"",
+    "\"RSS",
+    "to",
+    "JSON\"",
+    "\"RSS",
+    "reader\"",
+    "\"RSS",
+    "parser\"",
+    "\"RSS",
+    "to",
+    "JS\"",
+    "\"Feed",
+    "reader\""
+  ],
+  "author": "Volodymyr Nerovnia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerovnia/rss-aggregator/issues"
+  },
+  "homepage": "https://github.com/nerovnia/rss-aggregator#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
